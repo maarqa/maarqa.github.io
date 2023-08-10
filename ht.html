@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Password Check</title>
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Password Check</h2>
+
+<p>Enter the password to reveal a hidden paragraph:</p>
+
+<input type="password" id="password">
+<button onclick="checkPassword()">Submit</button>
+
+<p id="hiddenParagraph" class="hidden">hammadtamvr 1. 2883 3206		 6. 9093 6097
+2. 0410 8326		 7. 1634 4402
+3. 9054 8744		 8. 4020 4534
+4. 0411 0317		 9. 3159 8088
+5. 0733 2231		10. 0758 9335    </p>
+<p id="hiddenParagraph" class="hidden"> arqamiy2k2@gmail.com 1. 3963 9766		 6. 4729 1889
+2. 3684 9801		 7. 9167 0018
+3. 6600 1841		 8. 6567 5760
+4. 0228 0015		 9. 9321 3414
+5. 8142 3807		10. 3657 1338</p>
+<script>
+    function checkPassword() {
+        var password = document.getElementById("password").value;
+        var hiddenParagraph = document.getElementById("hiddenParagraph");
+
+        // Replace "yourpassw" with the actual password
+        if (password === "hammad9134") {
+            hiddenParagraph.classList.remove("hidden");
+        } else {
+            alert("Incorrect password. Please try again.");
+        }
+    }
+</script>
+
+</body>
+</html>
