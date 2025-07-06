@@ -1,99 +1,37 @@
 [
   {
-    "id": "1",
-    "title":"CH1 Acellular Life",
-    "subtitle":"The test for ch1",
-    "time":"5",
-    "questionList":[
+    "subjectName": "Biology",
+    "chapters": [
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
-      },
-      {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
-      }
-      ,
-      {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
-      },
-      {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
+        "id": "1",
+        "title": "CH1 Acellular Life",
+        "subtitle": "The test for ch1",
+        "time": "5",
+        "questionList": [
+          {
+            "question": "Name of a virus is:",
+            "options": ["Human", "Amoeba", "TMV", "Frog"],
+            "correct": "TMV"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "2",
-    "title":"CH2 Bioenergetics",
-    "subtitle":"The test for ch2",
-    "time":"5",
-    "questionList":[
+    "subjectName": "Physics",
+    "chapters": [
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
-      },
-      {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
-      }
-      ,
-      {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
-      },
-      {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
+        "id": "1",
+        "title": "CH1 Mechanics",
+        "subtitle": "Forces and Motion",
+        "time": "5",
+        "questionList": [
+          {
+            "question": "What is acceleration?",
+            "options": ["Speed", "Change of velocity", "Distance", "Mass"],
+            "correct": "Change of velocity"
+          }
+        ]
       }
     ]
   }
