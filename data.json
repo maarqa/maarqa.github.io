@@ -1,99 +1,2064 @@
 [
   {
     "id": "1",
-    "title":"CH1 Acellular Life",
-    "subtitle":"The test for ch1",
-    "time":"5",
-    "questionList":[
+    "title": "Bio CH1 T1 Acellular Life",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
+        "question": "The study of fossils and their relationships to the evolution of life on earth is:",
+        "options": [
+          "Fossilization",
+          "Paleontology",
+          "Paleobotany",
+          "Paleozoology"
         ],
-        "correct":"Amoeba"
+        "correct": "Paleontology"
       },
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
+        "question": "The study of hereditary characters transmitted from the parents to the offspring’s is called:",
+        "options": [
+          "Genetic engineering",
+          "Biotechnology",
+          "Genetics",
+          "Heredity"
         ],
-        "correct":"Amoeba"
-      }
-      ,
-      {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
-        ],
-        "correct":"Amoeba"
+        "correct": "Genetics"
       },
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
+        "question": "Chemical elements used in forming the chemical compounds from which living organisms are made are called:",
+        "options": [
+          "Bio elements",
+          "Microelements",
+          "Macro elements",
+          "Trace elements"
         ],
-        "correct":"Amoeba"
+        "correct": "Bio elements"
+      },
+      {
+        "question": "A connecting & supporting tissue in animals is:",
+        "options": [
+          "Connective",
+          "Muscle",
+          "Nerve",
+          "Bone"
+        ],
+        "correct": "Connective"
+      },
+      {
+        "question": "The reasoning from the general to specific is called:",
+        "options": [
+          "Deductive",
+          "Inductive",
+          "Scientific",
+          "Theoretical"
+        ],
+        "correct": "Deductive"
+      },
+      {
+        "question": "The branch of biology that deals with naming and classification is called:",
+        "options": [
+          "Taxonomy",
+          "Zoogeography",
+          "Ecology",
+          "Anatomy"
+        ],
+        "correct": "Taxonomy"
+      },
+      {
+        "question": "The arrangement of animals and plants into groups and subgroups on the basis of similarities is:",
+        "options": [
+          "Gradation",
+          "Classification",
+          "Organization",
+          "Grouping"
+        ],
+        "correct": "Classification"
+      },
+      {
+        "question": "Xylem tissue is specialized for conducting:",
+        "options": [
+          "food",
+          "Water",
+          "Both a & b",
+          "None"
+        ],
+        "correct": "Water"
+      },
+      {
+        "question": "If a theory survives skeptical approach and continuous to be supported by experimental evidences, it becomes a:",
+        "options": [
+          "Scientific mission",
+          "Scientific law",
+          "Scientific project",
+          "Scientific story"
+        ],
+        "correct": "Scientific law"
+      },
+      {
+        "question": "The AIDS stands for:",
+        "options": [
+          "Acquired immunity declared syndrome",
+          "Acquired immuno developed syndrome",
+          "Acquired immuno deficiency syndrome",
+          "Acquired immuno difference syndrome"
+        ],
+        "correct": "Acquired immuno deficiency syndrome"
+      },
+      {
+        "question": "Defective gene can be repaired:",
+        "options": [
+          "Chemotherapy",
+          "Gene therapy",
+          "Radiotherapy",
+          "Physiotherapy"
+        ],
+        "correct": "Gene therapy"
+      },
+      {
+        "question": "A community along with its non-living environment is called as:",
+        "options": [
+          "Habitat",
+          "Ecosystem",
+          "Ecological niche",
+          "All choices are correct"
+        ],
+        "correct": "Ecosystem"
+      },
+      {
+        "question": "Deductive reasoning IS always from:",
+        "options": [
+          "Tentative to exact",
+          "General to specific",
+          "Qualitative to quantitative",
+          "Specific to general"
+        ],
+        "correct": "General to specific"
+      },
+      {
+        "question": "The study of living organism:",
+        "options": [
+          "Microbiology",
+          "Marine Biology",
+          "Parasitology",
+          "Biology"
+        ],
+        "correct": "Biology"
+      },
+      {
+        "question": "The species of plants and animals likely to get extinct are called as:",
+        "options": [
+          "Extinct species",
+          "Protected species",
+          "Endangered species",
+          "Threatened species"
+        ],
+        "correct": "Endangered species"
+      },
+      {
+        "question": "The most recent era is:",
+        "options": [
+          "Proterozoic",
+          "Paleozoic",
+          "Cenozoic",
+          "Mesozoic"
+        ],
+        "correct": "Cenozoic"
       }
     ]
   },
   {
     "id": "2",
-    "title":"CH2 Bioenergetics",
-    "subtitle":"The test for ch2",
-    "time":"5",
-    "questionList":[
+    "title": "Bio CH1 T2 Acellular Life",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
+        "question": "A structure within cell that performs specific function is called:",
+        "options": [
+          "Molecule",
+          "Atom",
+          "Organelle",
+          "Compound"
         ],
-        "correct":"Amoeba"
+        "correct": "Organelle"
       },
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
+        "question": "The study of internal structure is:",
+        "options": [
+          "Morphology",
+          "Anatomy",
+          "Histology",
+          "Physiology"
         ],
-        "correct":"Amoeba"
+        "correct": "Anatomy"
+      },
+      {
+        "question": "The branch of biology which deals with the structure of organisms",
+        "options": [
+          "Morphology",
+          "Paleontology",
+          "Parasitology",
+          "Physio logy"
+        ],
+        "correct": "Morphology"
+      },
+      {
+        "question": "Techniques which is used to check, whether a Certain nutrient is essential for plant is:",
+        "options": [
+          "Integrated disease management",
+          "Hydroponic culture techniques",
+          "Cloning",
+          "Pasteurization"
+        ],
+        "correct": "Hydroponic culture techniques"
+      },
+      {
+        "question": "Pasteurization is widely used for preservation of:",
+        "options": [
+          "Food products",
+          "Meat products",
+          "Milk products",
+          "Meat"
+        ],
+        "correct": "Milk products"
+      },
+      {
+        "question": "Different tissues having related functions together form:",
+        "options": [
+          "Organ",
+          "Organelle",
+          "Individual",
+          "Molecules"
+        ],
+        "correct": "Organ"
+      },
+      {
+        "question": "A relationship between two or more organisms of different species in which all partners get benefit is called:",
+        "options": [
+          "Symbiosis",
+          "Commensalism",
+          "Parasitism",
+          "Predation"
+        ],
+        "correct": "Symbiosis"
+      },
+      {
+        "question": "Populations of different species (plants and animals) in the same habitat form a:",
+        "options": [
+          "Community",
+          "Biosphere",
+          "Ecosystem",
+          "Micro habitat"
+        ],
+        "correct": "Community"
+      },
+      {
+        "question": "The part of body which forms a structural and functional unit and its composed of more than one tissue is called:",
+        "options": [
+          "Organ",
+          "Organ system",
+          "Organelle",
+          "Whole organism"
+        ],
+        "correct": "Organ"
+      },
+      {
+        "question": "The greatest bio element in human body is:",
+        "options": [
+          "Hydrocarbon",
+          "Hydrogen",
+          "Carbon",
+          "Oxygen"
+        ],
+        "correct": "Oxygen"
+      },
+      {
+        "question": "A group of same cells that performs the same function:",
+        "options": [
+          "Organ",
+          "Tissue",
+          "System",
+          "Multicell"
+        ],
+        "correct": "Tissue"
+      },
+      {
+        "question": "In plants the long term regulation of activities is controlled by:",
+        "options": [
+          "Nervous system",
+          "Endocrine system",
+          "Hormonal system",
+          "All of these"
+        ],
+        "correct": "Hormonal system"
+      },
+      {
+        "question": "A biome is primarily determined by:",
+        "options": [
+          "Major plants",
+          "Major animals",
+          "Climate",
+          "Any of these"
+        ],
+        "correct": "Climate"
+      },
+      {
+        "question": "Evolving populations of the organism living in the remote past is known as:",
+        "options": [
+          "Catastrophism",
+          "Uniformitarianism",
+          "Phyletic lineage",
+          "Any of these"
+        ],
+        "correct": "Phyletic lineage"
+      },
+      {
+        "question": "The tentative explanation of observation is:",
+        "options": [
+          "Deduction",
+          "Induction",
+          "Theory",
+          "Hypothesis"
+        ],
+        "correct": "Hypothesis"
       }
-      ,
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bio CH1 T3 Acellular Life",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
+        "question": "Which of the following is the characteristic of living thing?",
+        "options": [
+          "Have a specific shape",
+          "Have regular shape",
+          "Have organized bod",
+          "None of these"
         ],
-        "correct":"Amoeba"
+        "correct": "Have organized bod"
       },
       {
-      "question":"Name of a virus is:",
-        "options":[
-          "Human",
-          "Amoeba",
-          "TMV" ,
-          "Frog"
+        "question": "A doctor is studying heartbeat. He is studying:",
+        "options": [
+          "Morphology",
+          "Histology",
+          "Anatomy",
+          "Physiology"
         ],
-        "correct":"Amoeba"
+        "correct": "Physiology"
+      },
+      {
+        "question": "A person says, \"Man has formed from monkey\". He talked about:",
+        "options": [
+          "Fossil",
+          "Evolution",
+          "Taxonomy",
+          "Embryology"
+        ],
+        "correct": "Evolution"
+      },
+      {
+        "question": "The study of amoeba, paramecium and euglena comes within the branch of biology:",
+        "options": [
+          "Morphology",
+          "Anatomy",
+          "Microbiology",
+          "Cell biology"
+        ],
+        "correct": "Microbiology"
+      },
+      {
+        "question": "Biological organization means:",
+        "options": [
+          "Study of different organisms",
+          "Study of different benches of biology",
+          "Study of all the subjects of science",
+          "Study of living organisms at different level"
+        ],
+        "correct": "Study of living organisms at different level"
+      },
+      {
+        "question": "Which one of the following is biome?",
+        "options": [
+          "An ocean",
+          "A river",
+          "Conifer forest",
+          "A garden"
+        ],
+        "correct": "Conifer forest"
+      },
+      {
+        "question": "A theory is formed when?",
+        "options": [
+          "A hypothesis is proved by experiments",
+          "Many deduction can be made from the same hypothesis",
+          "Many new hypothesis produce same result",
+          "None of these"
+        ],
+        "correct": "A hypothesis is proved by experiments"
+      },
+      {
+        "question": "A productive theory is that?",
+        "options": [
+          "Which can produce many new theories?",
+          "Which can suggest new hypothesis?",
+          "Which gives rise to biological law?",
+          "None of these"
+        ],
+        "correct": "Which can suggest new hypothesis?"
+      },
+      {
+        "question": "One of the following processes takes place during hydroponics culture technique?",
+        "options": [
+          "Plants are grown in green house",
+          "Plants are grown in simple water",
+          "Plants are grown in arid land",
+          "Plants are grown in aerated water"
+        ],
+        "correct": "Plants are grown in aerated water"
+      },
+      {
+        "question": "AIDS spread through one of the following methods?",
+        "options": [
+          "Breathing near AIDS patients",
+          "Sexual relation after marriage",
+          "Sexual relation without marriage",
+          "Drinking Contaminated water of the AIDS patient"
+        ],
+        "correct": "Sexual relation without marriage"
+      },
+      {
+        "question": "In cities exhaust of automobiles:",
+        "options": [
+          "Nitrogen",
+          "Lead",
+          "co",
+          "C02"
+        ],
+        "correct": "Lead"
+      },
+      {
+        "question": "The first ever clone of the vertebrate was prepared in 1997 in:",
+        "options": [
+          "England",
+          "Ireland",
+          "Scotland",
+          "U.S.A"
+        ],
+        "correct": "Scotland"
+      },
+      {
+        "question": "The pollution can be reduced by the absorption of heavy metals from the environment by certain:",
+        "options": [
+          "Algae",
+          "Fungi",
+          "Bacteria",
+          "Protozoan"
+        ],
+        "correct": "Bacteria"
+      },
+      {
+        "question": "The study of life in seas & oceans is:",
+        "options": [
+          "Oceanography",
+          "Freshwater biology",
+          "Marine biology",
+          "Aqua study"
+        ],
+        "correct": "Marine biology"
+      },
+      {
+        "question": "Evolution increases:",
+        "options": [
+          "Populations",
+          "Organisms",
+          "Biodiversity",
+          "None"
+        ],
+        "correct": "Biodiversity"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bio CH1 T4 Acellular Life",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "An aphid that attacks walnut tree is being controlled by:",
+        "options": [
+          "Wasp",
+          "Drosophila",
+          "Mosquito",
+          "Bacteria"
+        ],
+        "correct": "Wasp"
+      },
+      {
+        "question": "Number of naturally occurring elements are:",
+        "options": [
+          "90",
+          "92",
+          "94",
+          "96"
+        ],
+        "correct": "92"
+      },
+      {
+        "question": "Number of bio elements are:",
+        "options": [
+          "12",
+          "14",
+          "16",
+          "18"
+        ],
+        "correct": "16"
+      },
+      {
+        "question": "How many bio elements form 99% of living organism:",
+        "options": [
+          "1",
+          "3",
+          "6",
+          "9"
+        ],
+        "correct": "6"
+      },
+      {
+        "question": "A branch of science that is a way of understanding the nature is:",
+        "options": [
+          "Biochemistry",
+          "Organic chemistry",
+          "Biology",
+          "Zoogeography"
+        ],
+        "correct": "Biology"
+      },
+      {
+        "question": "One who deals with living part of the world and non-living things which affect living things is a:",
+        "options": [
+          "Ethologist",
+          "Embryologist",
+          "Biologist",
+          "Bio technologist"
+        ],
+        "correct": "Biologist"
+      },
+      {
+        "question": "The branch of biology that deals with the structure of organisms, the cells and their organelles at molecular level is:",
+        "options": [
+          "Biology",
+          "Molecular biology",
+          "Microbiology",
+          "Biotechnology"
+        ],
+        "correct": "Molecular biology"
+      },
+      {
+        "question": "The study of organisms that includes interaction between the organism and their inorganic and organic environment especially as it relates to human activities is:",
+        "options": [
+          "Freshwater biology",
+          "Marine biology",
+          "Environmental biology",
+          "Social biology"
+        ],
+        "correct": "Environmental biology"
+      },
+      {
+        "question": "The branch of biology that deals with life in rivers, lakes and physical and chemical parameters of these water bodies is called?",
+        "options": [
+          "Freshwater biology",
+          "Marine biology",
+          "Environmental biology",
+          "Social biology"
+        ],
+        "correct": "Freshwater biology"
+      },
+      {
+        "question": "The study of life in oceans and seas is:",
+        "options": [
+          "Freshwater biology",
+          "Marine biology",
+          "Environmental biology",
+          "Social biology"
+        ],
+        "correct": "Marine biology"
+      },
+      {
+        "question": "The branch of biology in which structure, mode of transmission, life histories and host-parasite relationships are studied in named as:",
+        "options": [
+          "Microbiology",
+          "Parasitology",
+          "Biotechnology",
+          "Social biology"
+        ],
+        "correct": "Parasitology"
+      },
+      {
+        "question": "The branch of biology that deals with study of social behaviour and communal life of human being is?",
+        "options": [
+          "Human morphology",
+          "Social biology",
+          "Environmental biology",
+          "Biology"
+        ],
+        "correct": "Social biology"
+      },
+      {
+        "question": "The branch of biology that deals with the use of living organisms, systems or Processes in manufacturing and service industries is?",
+        "options": [
+          "Microbiology",
+          "Social biology",
+          "Biotechnology",
+          "Molecular biology"
+        ],
+        "correct": "Biotechnology"
+      },
+      {
+        "question": "The medicines which are used for the treatment of bacterial human diseases. are called:",
+        "options": [
+          "Antigens",
+          "Antibodies",
+          "Antibiotics",
+          "Antiserum"
+        ],
+        "correct": "Antibiotics"
+      },
+      {
+        "question": "Which one of the following is not an organic compound?",
+        "options": [
+          "Glucose",
+          "Starch",
+          "Amino acid",
+          "Carbon dioxide"
+        ],
+        "correct": "Carbon dioxide"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bio CH1 T5 Acellular Life",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "The living organism destroy the pests are known as the:",
+        "options": [
+          "Insecticide",
+          "Fungicides",
+          "Pesticides",
+          "Bio-pesticide"
+        ],
+        "correct": "Bio-pesticide"
+      },
+      {
+        "question": "The removal or degradation of environmental pollutants or toxic materials by means of living organism is called:",
+        "options": [
+          "Biological control",
+          "Bio absorption",
+          "Bioremediation",
+          "Biotreatment"
+        ],
+        "correct": "Bioremediation"
+      },
+      {
+        "question": "The amount of sodium by weight in the human body is:",
+        "options": [
+          "0.0035",
+          "0.0025",
+          "0.0015",
+          "0.0005"
+        ],
+        "correct": "0.0025"
+      },
+      {
+        "question": "The exhaust from the tanneries contains a harmful heavy metal:",
+        "options": [
+          "Lead",
+          "Tin",
+          "Chromium",
+          "Bromium"
+        ],
+        "correct": "Chromium"
+      },
+      {
+        "question": "53.1% of the total known species of organism are the:",
+        "options": [
+          "Insects",
+          "Other animals",
+          "Vascular plants",
+          "Fungi and algae"
+        ],
+        "correct": "Insects"
+      },
+      {
+        "question": "Study of tissue is called:",
+        "options": [
+          "Morphology",
+          "Anatomy",
+          "Histology",
+          "Microbiology"
+        ],
+        "correct": "Histology"
+      },
+      {
+        "question": "Embryology is the study of:",
+        "options": [
+          "Fossils",
+          "Tissues",
+          "Development",
+          "Internal gross structure"
+        ],
+        "correct": "Development"
+      },
+      {
+        "question": "The lowest percentage of bio elements in man among the followings is of:",
+        "options": [
+          "Chlorine",
+          "Sulphur",
+          "Manganese",
+          "Iron"
+        ],
+        "correct": "Manganese"
+      },
+      {
+        "question": "Percentage of hydrogen in human body is:",
+        "options": [
+          "0.05",
+          "0.1",
+          "0.15",
+          "0.2"
+        ],
+        "correct": "0.1"
+      },
+      {
+        "question": "In human gene therapy the normal genes are inserted into the host through:",
+        "options": [
+          "Blood cells",
+          "Bonemarrow cells",
+          "Bone cells",
+          "Muscle cells"
+        ],
+        "correct": "Bonemarrow cells"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bio CH2 T1 Bioenergetics",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": {}
+  },
+  {
+    "id": "7",
+    "title": "Bio CH2 T2 Bioenergetics",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": []
+  },
+  {
+    "id": "8",
+    "title": "Bio CH2 T3 Bioenergetics",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": []
+  },
+  {
+    "id": "9",
+    "title": "Bio CH2 T4 Bioenergetics",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": []
+  },
+  {
+    "id": "10",
+    "title": "Bio CH2 T5 Bioenergetics",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": []
+  },
+  {
+    "id": "11",
+    "title": "Bio CH3 T1 Biomoelecules ",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "The most abundant organic compound in organisms is:",
+        "options": [
+          "Proteins",
+          "Carbohydrates",
+          "Lipids",
+          "Water"
+        ],
+        "correct": "Proteins"
+      },
+      {
+        "question": "Which one is the example of disaccharide:",
+        "options": [
+          "Glucose",
+          "Fructose",
+          "Sucrose",
+          "Ribose"
+        ],
+        "correct": "Sucrose"
+      },
+      {
+        "question": "The molecular formula of glucose is:",
+        "options": [
+          "C6H12O6",
+          "C12H22O11",
+          "C5H10O5",
+          "C3H6O3"
+        ],
+        "correct": "C6H12O6"
+      },
+      {
+        "question": "Which one is the example of monosaccharide:",
+        "options": [
+          "Sucrose",
+          "Maltose",
+          "Lactose",
+          "Glucose"
+        ],
+        "correct": "Glucose"
+      },
+      {
+        "question": "The most abundant carbohydrate in nature is:",
+        "options": [
+          "Glucose",
+          "Fructose",
+          "Sucrose",
+          "Cellulose"
+        ],
+        "correct": "Cellulose"
+      },
+      {
+        "question": "Which one is not a lipid:",
+        "options": [
+          "Steroids",
+          "Waxes",
+          "Pectins",
+          "Phospholipids"
+        ],
+        "correct": "Pectins"
+      },
+      {
+        "question": "Fatty acids and glycerol are the building blocks of:",
+        "options": [
+          "Carbohydrates",
+          "Proteins",
+          "Lipids",
+          "Nucleic acids"
+        ],
+        "correct": "Lipids"
+      },
+      {
+        "question": "The number of amino acids found in nature are:",
+        "options": [
+          "10",
+          "15",
+          "20",
+          "25"
+        ],
+        "correct": "20"
+      },
+      {
+        "question": "The bond formed between amino acids is:",
+        "options": [
+          "Glycosidic bond",
+          "Peptide bond",
+          "Hydrogen bond",
+          "Ester bond"
+        ],
+        "correct": "Peptide bond"
+      },
+      {
+        "question": "Proteins are polymers of:",
+        "options": [
+          "Monosaccharides",
+          "Amino acids",
+          "Fatty acids",
+          "Nucleotides"
+        ],
+        "correct": "Amino acids"
+      },
+      {
+        "question": "The primary structure of protein is due to:",
+        "options": [
+          "Peptide bond",
+          "Hydrogen bond",
+          "Disulphide bond",
+          "Ionic bond"
+        ],
+        "correct": "Peptide bond"
+      },
+      {
+        "question": "The secondary structure of protein is due to:",
+        "options": [
+          "Peptide bond",
+          "Hydrogen bond",
+          "Disulphide bond",
+          "Ionic bond"
+        ],
+        "correct": "Hydrogen bond"
+      },
+      {
+        "question": "The tertiary structure of protein is due to:",
+        "options": [
+          "Peptide bond",
+          "Hydrogen bond",
+          "Disulphide bond",
+          "All of these"
+        ],
+        "correct": "All of these"
+      },
+      {
+        "question": "The quaternary structure of protein is due to:",
+        "options": [
+          "Peptide bond",
+          "Hydrogen bond",
+          "Disulphide bond",
+          "More than one polypeptide chain"
+        ],
+        "correct": "More than one polypeptide chain"
+      },
+      {
+        "question": "Which one is the example of globular protein:",
+        "options": [
+          "Keratin",
+          "Collagen",
+          "Myosin",
+          "Enzymes"
+        ],
+        "correct": "Enzymes"
+      },
+      {
+        "question": "Which one is the example of fibrous protein:",
+        "options": [
+          "Hemoglobin",
+          "Insulin",
+          "Antibodies",
+          "Keratin"
+        ],
+        "correct": "Keratin"
+      },
+      {
+        "question": "Nucleic acids are polymers of:",
+        "options": [
+          "Amino acids",
+          "Nucleotides",
+          "Monosaccharides",
+          "Fatty acids"
+        ],
+        "correct": "Nucleotides"
+      },
+      {
+        "question": "Which one is not a component of DNA:",
+        "options": [
+          "Adenine",
+          "Guanine",
+          "Cytosine",
+          "Uracil"
+        ],
+        "correct": "Uracil"
+      },
+      {
+        "question": "Which one is not a component of RNA:",
+        "options": [
+          "Adenine",
+          "Guanine",
+          "Cytosine",
+          "Thymine"
+        ],
+        "correct": "Thymine"
+      },
+      {
+        "question": "The sugar found in DNA is:",
+        "options": [
+          "Ribose",
+          "Deoxyribose",
+          "Glucose",
+          "Fructose"
+        ],
+        "correct": "Deoxyribose"
+      },
+      {
+        "question": "The sugar found in RNA is:",
+        "options": [
+          "Ribose",
+          "Deoxyribose",
+          "Glucose",
+          "Fructose"
+        ],
+        "correct": "Ribose"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Bio CH3 T2 Biomoelecules",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "The end product of enzyme action is called:",
+        "options": [
+          "Product",
+          "Substrate",
+          "Catalyst",
+          "Inhibitor"
+        ],
+        "correct": "Product"
+      },
+      {
+        "question": "Which one is an intracellular enzyme:",
+        "options": [
+          "Amylase",
+          "Pepsin",
+          "Catalase",
+          "Trypsin"
+        ],
+        "correct": "Catalase"
+      },
+      {
+        "question": "Which one is an extracellular enzyme:",
+        "options": [
+          "Pepsin",
+          "Catalase",
+          "Urease",
+          "Carbonic anhydrase"
+        ],
+        "correct": "Pepsin"
+      },
+      {
+        "question": "The enzyme that breaks down starch is:",
+        "options": [
+          "Lipase",
+          "Protease",
+          "Amylase",
+          "Nuclease"
+        ],
+        "correct": "Amylase"
+      },
+      {
+        "question": "The enzyme that breaks down proteins is:",
+        "options": [
+          "Lipase",
+          "Protease",
+          "Amylase",
+          "Nuclease"
+        ],
+        "correct": "Protease"
+      },
+      {
+        "question": "The enzyme that breaks down lipids is:",
+        "options": [
+          "Lipase",
+          "Protease",
+          "Amylase",
+          "Nuclease"
+        ],
+        "correct": "Lipase"
+      },
+      {
+        "question": "The enzyme that breaks down nucleic acids is:",
+        "options": [
+          "Lipase",
+          "Protease",
+          "Amylase",
+          "Nuclease"
+        ],
+        "correct": "Nuclease"
+      },
+      {
+        "question": "Which one is a competitive inhibitor:",
+        "options": [
+          "Cyanide",
+          "Heavy metals",
+          "Sulfa drugs",
+          "All of these"
+        ],
+        "correct": "Sulfa drugs"
+      },
+      {
+        "question": "Which one is a non-competitive inhibitor:",
+        "options": [
+          "Cyanide",
+          "Heavy metals",
+          "Sulfa drugs",
+          "All of these"
+        ],
+        "correct": "Heavy metals"
+      },
+      {
+        "question": "The study of enzymes is called:",
+        "options": [
+          "Enzymology",
+          "Biochemistry",
+          "Molecular biology",
+          "Biotechnology"
+        ],
+        "correct": "Enzymology"
+      },
+      {
+        "question": "Which one is not a characteristic of enzyme:",
+        "options": [
+          "Specific",
+          "Reusable",
+          "Consumed in reaction",
+          "Proteinaceous"
+        ],
+        "correct": "Consumed in reaction"
+      },
+      {
+        "question": "The enzyme activity is affected by:",
+        "options": [
+          "Temperature",
+          "pH",
+          "Substrate concentration",
+          "All of these"
+        ],
+        "correct": "All of these"
+      },
+      {
+        "question": "The activation energy of a reaction is lowered by:",
+        "options": [
+          "Enzymes",
+          "Inhibitors",
+          "Activators",
+          "Products"
+        ],
+        "correct": "Enzymes"
+      },
+      {
+        "question": "The maximum activity of enzyme is at:",
+        "options": [
+          "Optimum temperature",
+          "Optimum pH",
+          "High substrate concentration",
+          "All of these"
+        ],
+        "correct": "All of these"
+      },
+      {
+        "question": "The rate of enzyme reaction increases with increase in temperature upto:",
+        "options": [
+          "25°C",
+          "37°C",
+          "40°C",
+          "50°C"
+        ],
+        "correct": "40°C"
+      },
+      {
+        "question": "The rate of enzyme reaction decreases with increase in temperature beyond:",
+        "options": [
+          "25°C",
+          "37°C",
+          "40°C",
+          "50°C"
+        ],
+        "correct": "40°C"
+      },
+      {
+        "question": "The rate of enzyme reaction increases with increase in substrate concentration upto:",
+        "options": [
+          "Vmax",
+          "Km",
+          "Optimum",
+          "Saturation point"
+        ],
+        "correct": "Saturation point"
+      },
+      {
+        "question": "The point at which all active sites of enzyme are occupied by substrate is called:",
+        "options": [
+          "Vmax",
+          "Km",
+          "Optimum",
+          "Saturation point"
+        ],
+        "correct": "Saturation point"
+      },
+      {
+        "question": "The Michaelis constant (Km) is the substrate concentration at which reaction rate is:",
+        "options": [
+          "Half of Vmax",
+          "Vmax",
+          "Zero",
+          "Double of Vmax"
+        ],
+        "correct": "Half of Vmax"
+      },
+      {
+        "question": "The higher the Km value, the _______ the affinity of enzyme for substrate:",
+        "options": [
+          "Higher",
+          "Lower",
+          "Same",
+          "No relation"
+        ],
+        "correct": "Lower"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Bio CH3 T3 Biomoelecules",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "The lower the Km value, the _______ the affinity of enzyme for substrate:",
+        "options": [
+          "Higher",
+          "Lower",
+          "Same",
+          "No relation"
+        ],
+        "correct": "Higher"
+      },
+      {
+        "question": "Which one is a reversible inhibitor:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Both a & b",
+          "None of these"
+        ],
+        "correct": "Both a & b"
+      },
+      {
+        "question": "Which one is an irreversible inhibitor:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Both a & b",
+          "None of these"
+        ],
+        "correct": "Non-competitive inhibitor"
+      },
+      {
+        "question": "The inhibitor that resembles the substrate is:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Allosteric inhibitor",
+          "Uncompetitive inhibitor"
+        ],
+        "correct": "Competitive inhibitor"
+      },
+      {
+        "question": "The inhibitor that binds to a site other than active site is:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Allosteric inhibitor",
+          "Uncompetitive inhibitor"
+        ],
+        "correct": "Non-competitive inhibitor"
+      },
+      {
+        "question": "The regulation of enzyme activity by binding of a molecule to a site other than active site is called:",
+        "options": [
+          "Competitive inhibition",
+          "Non-competitive inhibition",
+          "Allosteric regulation",
+          "Feedback inhibition"
+        ],
+        "correct": "Allosteric regulation"
+      },
+      {
+        "question": "The inhibition of enzyme activity by its own product is called:",
+        "options": [
+          "Competitive inhibition",
+          "Non-competitive inhibition",
+          "Allosteric regulation",
+          "Feedback inhibition"
+        ],
+        "correct": "Feedback inhibition"
+      },
+      {
+        "question": "The addition of phosphate group to an enzyme to activate or deactivate it is called:",
+        "options": [
+          "Phosphorylation",
+          "Dephosphorylation",
+          "Hydrolysis",
+          "Oxidation"
+        ],
+        "correct": "Phosphorylation"
+      },
+      {
+        "question": "The removal of phosphate group from an enzyme to activate or deactivate it is called:",
+        "options": [
+          "Phosphorylation",
+          "Dephosphorylation",
+          "Hydrolysis",
+          "Oxidation"
+        ],
+        "correct": "Dephosphorylation"
+      },
+      {
+        "question": "Zymogens are:",
+        "options": [
+          "Active enzymes",
+          "Inactive enzymes",
+          "Coenzymes",
+          "Cofactors"
+        ],
+        "correct": "Inactive enzymes"
+      },
+      {
+        "question": "Pepsinogen is an example of:",
+        "options": [
+          "Active enzyme",
+          "Inactive enzyme",
+          "Coenzyme",
+          "Cofactor"
+        ],
+        "correct": "Inactive enzyme"
+      },
+      {
+        "question": "The enzyme used in the production of cheese is:",
+        "options": [
+          "Rennet",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Rennet"
+      },
+      {
+        "question": "The enzyme used in the tenderization of meat is:",
+        "options": [
+          "Papain",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Papain"
+      },
+      {
+        "question": "The enzyme used in the clarification of fruit juices is:",
+        "options": [
+          "Pectinase",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Pectinase"
+      },
+      {
+        "question": "The enzyme used in the removal of stains from clothes is:",
+        "options": [
+          "Amylase",
+          "Protease",
+          "Lipase",
+          "Cellulase"
+        ],
+        "correct": "Protease"
+      },
+      {
+        "question": "The enzyme used in the production of high fructose corn syrup is:",
+        "options": [
+          "Glucose isomerase",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Glucose isomerase"
+      },
+      {
+        "question": "The enzyme used in the diagnosis of heart attack is:",
+        "options": [
+          "Amylase",
+          "Lipase",
+          "Creatine kinase",
+          "Lactate dehydrogenase"
+        ],
+        "correct": "Creatine kinase"
+      },
+      {
+        "question": "The enzyme used in the diagnosis of pancreatitis is:",
+        "options": [
+          "Amylase",
+          "Lipase",
+          "Creatine kinase",
+          "Lactate dehydrogenase"
+        ],
+        "correct": "Amylase"
+      },
+      {
+        "question": "The enzyme used in the diagnosis of liver disease is:",
+        "options": [
+          "Amylase",
+          "Lipase",
+          "Alanine transaminase",
+          "Aspartate transaminase"
+        ],
+        "correct": "Alanine transaminase"
+      },
+      {
+        "question": "The enzyme used in PCR is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Restriction enzyme",
+          "Reverse transcriptase"
+        ],
+        "correct": "DNA polymerase"
+      },
+      {
+        "question": "The enzyme used in genetic engineering to cut DNA is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Restriction enzyme",
+          "Reverse transcriptase"
+        ],
+        "correct": "Restriction enzyme"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Bio CH3 T4 Biomoelecules",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "The enzyme used in PCR is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Restriction enzyme",
+          "Reverse transcriptase"
+        ],
+        "correct": "DNA polymerase"
+      },
+      {
+        "question": "The enzyme used in genetic engineering to cut DNA is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Restriction enzyme",
+          "Reverse transcriptase"
+        ],
+        "correct": "Restriction enzyme"
+      },
+      {
+        "question": "The enzyme used in genetic engineering to join DNA fragments is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Restriction enzyme",
+          "Reverse transcriptase"
+        ],
+        "correct": "DNA ligase"
+      },
+      {
+        "question": "The enzyme that synthesizes DNA from RNA template is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Restriction enzyme",
+          "Reverse transcriptase"
+        ],
+        "correct": "Reverse transcriptase"
+      },
+      {
+        "question": "The enzyme that synthesizes RNA from DNA template is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "RNA polymerase",
+          "Reverse transcriptase"
+        ],
+        "correct": "RNA polymerase"
+      },
+      {
+        "question": "The enzyme that removes introns from pre-mRNA is:",
+        "options": [
+          "RNA ligase",
+          "Spliceosome",
+          "Ribozyme",
+          "Reverse transcriptase"
+        ],
+        "correct": "Spliceosome"
+      },
+      {
+        "question": "The enzyme that adds amino acid to tRNA is:",
+        "options": [
+          "Aminoacyl-tRNA synthetase",
+          "Peptidyl transferase",
+          "Ribosome",
+          "RNA polymerase"
+        ],
+        "correct": "Aminoacyl-tRNA synthetase"
+      },
+      {
+        "question": "The enzyme that forms peptide bond during protein synthesis is:",
+        "options": [
+          "Aminoacyl-tRNA synthetase",
+          "Peptidyl transferase",
+          "Ribosome",
+          "RNA polymerase"
+        ],
+        "correct": "Peptidyl transferase"
+      },
+      {
+        "question": "The enzyme that unwinds DNA during replication is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Helicase",
+          "Topoisomerase"
+        ],
+        "correct": "Helicase"
+      },
+      {
+        "question": "The enzyme that relieves supercoiling of DNA during replication is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Helicase",
+          "Topoisomerase"
+        ],
+        "correct": "Topoisomerase"
+      },
+      {
+        "question": "The enzyme that synthesizes RNA primer during DNA replication is:",
+        "options": [
+          "Primase",
+          "DNA polymerase",
+          "RNA polymerase",
+          "Helicase"
+        ],
+        "correct": "Primase"
+      },
+      {
+        "question": "The enzyme that removes RNA primer during DNA replication is:",
+        "options": [
+          "RNase H",
+          "DNA polymerase",
+          "Ligase",
+          "Helicase"
+        ],
+        "correct": "RNase H"
+      },
+      {
+        "question": "The enzyme that fills the gaps after primer removal during DNA replication is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Primase",
+          "Helicase"
+        ],
+        "correct": "DNA polymerase"
+      },
+      {
+        "question": "The enzyme that repairs damaged DNA is:",
+        "options": [
+          "DNA ligase",
+          "DNA polymerase",
+          "Repair enzyme",
+          "All of these"
+        ],
+        "correct": "All of these"
+      },
+      {
+        "question": "The enzyme that catalyzes the conversion of glucose to glucose-6-phosphate is:",
+        "options": [
+          "Hexokinase",
+          "Glucokinase",
+          "Phosphofructokinase",
+          "Pyruvate kinase"
+        ],
+        "correct": "Hexokinase"
+      },
+      {
+        "question": "The enzyme that catalyzes the conversion of fructose-6-phosphate to fructose-1,6-bisphosphate is:",
+        "options": [
+          "Hexokinase",
+          "Glucokinase",
+          "Phosphofructokinase",
+          "Pyruvate kinase"
+        ],
+        "correct": "Phosphofructokinase"
+      },
+      {
+        "question": "The enzyme that catalyzes the conversion of phosphoenolpyruvate to pyruvate is:",
+        "options": [
+          "Hexokinase",
+          "Glucokinase",
+          "Phosphofructokinase",
+          "Pyruvate kinase"
+        ],
+        "correct": "Pyruvate kinase"
+      },
+      {
+        "question": "The enzyme that catalyzes the first committed step of glycolysis is:",
+        "options": [
+          "Hexokinase",
+          "Glucokinase",
+          "Phosphofructokinase",
+          "Pyruvate kinase"
+        ],
+        "correct": "Phosphofructokinase"
+      },
+      {
+        "question": "The enzyme that catalyzes the conversion of pyruvate to acetyl CoA is:",
+        "options": [
+          "Pyruvate dehydrogenase complex",
+          "Citrate synthase",
+          "Isocitrate dehydrogenase",
+          "Alpha-ketoglutarate dehydrogenase"
+        ],
+        "correct": "Pyruvate dehydrogenase complex"
+      },
+      {
+        "question": "The enzyme that catalyzes the conversion of acetyl CoA to citrate is:",
+        "options": [
+          "Pyruvate dehydrogenase complex",
+          "Citrate synthase",
+          "Isocitrate dehydrogenase",
+          "Alpha-ketoglutarate dehydrogenase"
+        ],
+        "correct": "Citrate synthase"
+      },
+      {
+        "question": "The enzyme that catalyzes the conversion of isocitrate to alpha-ketoglutarate is:",
+        "options": [
+          "Pyruvate dehydrogenase complex",
+          "Citrate synthase",
+          "Isocitrate dehydrogenase",
+          "Alpha-ketoglutarate dehydrogenase"
+        ],
+        "correct": "Isocitrate dehydrogenase"
+      },
+      {
+        "question": "The enzyme that catalyzes the conversion of alpha-ketoglutarate to succinyl CoA is:",
+        "options": [
+          "Pyruvate dehydrogenase complex",
+          "Citrate synthase",
+          "Isocitrate dehydrogenase",
+          "Alpha-ketoglutarate dehydrogenase"
+        ],
+        "correct": "Alpha-ketoglutarate dehydrogenase"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Bio CH3 T5 Biomolecules",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "The bond formed between nucleotides is:",
+        "options": [
+          "Glycosidic bond",
+          "Peptide bond",
+          "Phosphodiester bond",
+          "Hydrogen bond"
+        ],
+        "correct": "Phosphodiester bond"
+      },
+      {
+        "question": "Which one is the double stranded nucleic acid:",
+        "options": [
+          "DNA",
+          "RNA",
+          "Both a & b",
+          "None of these"
+        ],
+        "correct": "DNA"
+      },
+      {
+        "question": "Which one is the single stranded nucleic acid:",
+        "options": [
+          "DNA",
+          "RNA",
+          "Both a & b",
+          "None of these"
+        ],
+        "correct": "RNA"
+      },
+      {
+        "question": "ATP stands for:",
+        "options": [
+          "Adenosine triphosphate",
+          "Adenine triphosphate",
+          "Adenosine diphosphate",
+          "Adenosine monophosphate"
+        ],
+        "correct": "Adenosine triphosphate"
+      },
+      {
+        "question": "Which one is the energy currency of the cell:",
+        "options": [
+          "Glucose",
+          "ATP",
+          "DNA",
+          "RNA"
+        ],
+        "correct": "ATP"
+      },
+      {
+        "question": "Enzymes are:",
+        "options": [
+          "Carbohydrates",
+          "Proteins",
+          "Lipids",
+          "Nucleic acids"
+        ],
+        "correct": "Proteins"
+      },
+      {
+        "question": "The site where substrate binds on enzyme is called:",
+        "options": [
+          "Active site",
+          "Allosteric site",
+          "Regulatory site",
+          "Binding site"
+        ],
+        "correct": "Active site"
+      },
+      {
+        "question": "The model that explains enzyme specificity is:",
+        "options": [
+          "Lock and key model",
+          "Induced fit model",
+          "Both a & b",
+          "None of these"
+        ],
+        "correct": "Both a & b"
+      },
+      {
+        "question": "The optimum pH for most enzymes is:",
+        "options": [
+          "2",
+          "7",
+          "10",
+          "12"
+        ],
+        "correct": "7"
+      },
+      {
+        "question": "The optimum temperature for most enzymes is:",
+        "options": [
+          "0°C",
+          "25°C",
+          "37°C",
+          "100°C"
+        ],
+        "correct": "37°C"
+      },
+      {
+        "question": "The substances that reduce the activity of enzymes are called:",
+        "options": [
+          "Activators",
+          "Inhibitors",
+          "Coenzymes",
+          "Cofactors"
+        ],
+        "correct": "Inhibitors"
+      },
+      {
+        "question": "The non-protein part of enzyme is called:",
+        "options": [
+          "Apoenzyme",
+          "Holoenzyme",
+          "Coenzyme",
+          "Prosthetic group"
+        ],
+        "correct": "Prosthetic group"
+      },
+      {
+        "question": "The protein part of enzyme is called:",
+        "options": [
+          "Apoenzyme",
+          "Holoenzyme",
+          "Coenzyme",
+          "Prosthetic group"
+        ],
+        "correct": "Apoenzyme"
+      },
+      {
+        "question": "The complete enzyme with its cofactor is called:",
+        "options": [
+          "Apoenzyme",
+          "Holoenzyme",
+          "Coenzyme",
+          "Prosthetic group"
+        ],
+        "correct": "Holoenzyme"
+      },
+      {
+        "question": "The inorganic cofactors are called:",
+        "options": [
+          "Coenzymes",
+          "Prosthetic groups",
+          "Activators",
+          "Metal ions"
+        ],
+        "correct": "Metal ions"
+      },
+      {
+        "question": "The organic cofactors are called:",
+        "options": [
+          "Coenzymes",
+          "Prosthetic groups",
+          "Activators",
+          "Metal ions"
+        ],
+        "correct": "Coenzymes"
+      },
+      {
+        "question": "Which one is a coenzyme:",
+        "options": [
+          "Vitamins",
+          "Metal ions",
+          "ATP",
+          "NAD+"
+        ],
+        "correct": "NAD+"
+      },
+      {
+        "question": "Which one is a prosthetic group:",
+        "options": [
+          "Vitamins",
+          "Metal ions",
+          "Heme",
+          "NAD+"
+        ],
+        "correct": "Heme"
+      },
+      {
+        "question": "The process by which enzymes are denatured is called:",
+        "options": [
+          "Hydrolysis",
+          "Oxidation",
+          "Reduction",
+          "Denaturation"
+        ],
+        "correct": "Denaturation"
+      },
+      {
+        "question": "The molecule on which enzyme acts is called:",
+        "options": [
+          "Product",
+          "Substrate",
+          "Catalyst",
+          "Inhibitor"
+        ],
+        "correct": "Substrate"
+      },
+      {
+        "question": "The lower the Km value, the _______ the affinity of enzyme for substrate:",
+        "options": [
+          "Higher",
+          "Lower",
+          "Same",
+          "No relation"
+        ],
+        "correct": "Higher"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Bio CH3 T6 Biomolecules",
+    "subtitle": "The test for ch1",
+    "time": "5",
+    "questionList": [
+      {
+        "question": "Which one is a reversible inhibitor:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Both a & b",
+          "None of these"
+        ],
+        "correct": "Both a & b"
+      },
+      {
+        "question": "Which one is an irreversible inhibitor:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Both a & b",
+          "None of these"
+        ],
+        "correct": "Non-competitive inhibitor"
+      },
+      {
+        "question": "The inhibitor that resembles the substrate is:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Allosteric inhibitor",
+          "Uncompetitive inhibitor"
+        ],
+        "correct": "Competitive inhibitor"
+      },
+      {
+        "question": "The inhibitor that binds to a site other than active site is:",
+        "options": [
+          "Competitive inhibitor",
+          "Non-competitive inhibitor",
+          "Allosteric inhibitor",
+          "Uncompetitive inhibitor"
+        ],
+        "correct": "Non-competitive inhibitor"
+      },
+      {
+        "question": "The regulation of enzyme activity by binding of a molecule to a site other than active site is called:",
+        "options": [
+          "Competitive inhibition",
+          "Non-competitive inhibition",
+          "Allosteric regulation",
+          "Feedback inhibition"
+        ],
+        "correct": "Allosteric regulation"
+      },
+      {
+        "question": "The inhibition of enzyme activity by its own product is called:",
+        "options": [
+          "Competitive inhibition",
+          "Non-competitive inhibition",
+          "Allosteric regulation",
+          "Feedback inhibition"
+        ],
+        "correct": "Feedback inhibition"
+      },
+      {
+        "question": "The addition of phosphate group to an enzyme to activate or deactivate it is called:",
+        "options": [
+          "Phosphorylation",
+          "Dephosphorylation",
+          "Hydrolysis",
+          "Oxidation"
+        ],
+        "correct": "Phosphorylation"
+      },
+      {
+        "question": "The removal of phosphate group from an enzyme to activate or deactivate it is called:",
+        "options": [
+          "Phosphorylation",
+          "Dephosphorylation",
+          "Hydrolysis",
+          "Oxidation"
+        ],
+        "correct": "Dephosphorylation"
+      },
+      {
+        "question": "Zymogens are:",
+        "options": [
+          "Active enzymes",
+          "Inactive enzymes",
+          "Coenzymes",
+          "Cofactors"
+        ],
+        "correct": "Inactive enzymes"
+      },
+      {
+        "question": "Pepsinogen is an example of:",
+        "options": [
+          "Active enzyme",
+          "Inactive enzyme",
+          "Coenzyme",
+          "Cofactor"
+        ],
+        "correct": "Inactive enzyme"
+      },
+      {
+        "question": "The enzyme used in the production of cheese is:",
+        "options": [
+          "Rennet",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Rennet"
+      },
+      {
+        "question": "The enzyme used in the tenderization of meat is:",
+        "options": [
+          "Papain",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Papain"
+      },
+      {
+        "question": "The enzyme used in the clarification of fruit juices is:",
+        "options": [
+          "Pectinase",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Pectinase"
+      },
+      {
+        "question": "The enzyme used in the removal of stains from clothes is:",
+        "options": [
+          "Amylase",
+          "Protease",
+          "Lipase",
+          "Cellulase"
+        ],
+        "correct": "Protease"
+      },
+      {
+        "question": "The enzyme used in the production of high fructose corn syrup is:",
+        "options": [
+          "Glucose isomerase",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "correct": "Glucose isomerase"
+      },
+      {
+        "question": "The enzyme used in the diagnosis of heart attack is:",
+        "options": [
+          "Amylase",
+          "Lipase",
+          "Creatine kinase",
+          "Lactate dehydrogenase"
+        ],
+        "correct": "Creatine kinase"
+      },
+      {
+        "question": "The enzyme used in the diagnosis of pancreatitis is:",
+        "options": [
+          "Amylase",
+          "Lipase",
+          "Creatine kinase",
+          "Lactate dehydrogenase"
+        ],
+        "correct": "Amylase"
+      },
+      {
+        "question": "The enzyme used in the diagnosis of liver disease is:",
+        "options": [
+          "Amylase",
+          "Lipase",
+          "Alanine transaminase",
+          "Aspartate transaminase"
+        ],
+        "correct": "Alanine transaminase"
       }
     ]
   }
